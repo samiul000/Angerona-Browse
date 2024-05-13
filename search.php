@@ -48,3 +48,4 @@ if ($_SERVER["REQUEST_METHOD"] === "GET") {
         echo "Please enter a search query and select a search engine.";
     }
 }
+?>
